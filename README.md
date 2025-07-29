@@ -14,7 +14,7 @@ sure, go for it lol
 ## Previews
 1. Goog...le (Google products)
 <p align="center">
-    <img src="holdon" alt="goog...le" width="90%" height="auto"> <br>
+    <img src="https://github.com/lunar1um/soggy-icons/blob/main/previews/google.png?raw=true" alt="goog...le" width="90%" height="auto"> <br>
 </p>
 
 ## Credits
