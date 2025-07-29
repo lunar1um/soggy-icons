@@ -1,0 +1,32 @@
+name: Generate manifest
+
+on:
+  push:
+    paths:
+      - "icons/**"
+      - "generate_manifest.py"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Generate manifest.yaml
+        run: python generate_manifest.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update manifest.yaml"
+          file_pattern: metadata/manifest.yaml

@@ -1,2 +1,23 @@
-# soggy-icons
- The soggiest icons packs in existence!!
+# Soggy Icons
+> what if every icon... was just soggy cat?
+An unofficial, **really** soggy icon pack where everything is shark (the soggy cat).
+
+## What's included?
+A directory of svg icons, organized by brands and flavors. More to come!!!
+
+## License
+- Icon sources may belong to their respective owners.
+
+## Contributing
+sure, go for it lol
+
+## Previews
+1. Goog...le (Google products)
+<p align="center">
+    <img src="holdon" alt="goog...le" width="90%" height="auto"> <br>
+</p>
+
+## Credits
+- Original icons structures inspired by [Simple Icons](https://simpleicons.org/)
+- **soggy organization** for the images.
+- And [me (lunar)](https://github.com/lunar1um), the guy who has nothing else better to do for editing the icons
