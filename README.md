@@ -1,4 +1,4 @@
-# Soggy Icons
+# Soggy Icons 🐱💦
 > what if every icon... was just soggy cat?
 An unofficial, **really** soggy icon pack where everything is shark (the soggy cat).
 
