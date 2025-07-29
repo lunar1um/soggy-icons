@@ -20,17 +20,14 @@ for brand in os.listdir(ICON_DIR):
 
         icons = []
         for file in os.listdir(flavor_path):
-            if file.endswith(".svg"):
+            if file.endswith(".png"):
                 icon_name = os.path.splitext(file)[0]
                 icons.append({"name": icon_name})
 
         if icons:
             manifest[brand][flavor] = icons
 
-# Make sure metadata folder exists
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
 with open(OUTPUT_FILE, "w") as f:
     yaml.dump(manifest, f, sort_keys=False)
-
-print(f"✅ manifest.yaml generated at {OUTPUT_FILE}")

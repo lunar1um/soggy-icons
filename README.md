@@ -3,7 +3,7 @@
 An unofficial, **really** soggy icon pack where everything is shark (the soggy cat).
 
 ## What's included?
-A directory of svg icons, organized by brands and flavors. More to come!!!
+A directory of png icons, organized by brands and flavors. More to come!!!
 
 ## License
 - Icon sources may belong to their respective owners.
