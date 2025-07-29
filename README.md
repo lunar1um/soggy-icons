@@ -19,5 +19,5 @@ sure, go for it lol
 
 ## Credits
 - Original icons structures inspired by [Simple Icons](https://simpleicons.org/)
-- **soggy organization** for the images.
+- [**soggy organization**](https://github.com/ssoggycat) for the images.
 - And [me (lunar)](https://github.com/lunar1um), the guy who has nothing else better to do for editing the icons
