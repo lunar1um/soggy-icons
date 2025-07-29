@@ -4,6 +4,7 @@ An unofficial, **really** soggy icon pack where everything is shark (the soggy c
 
 ## What's included?
 A directory of png icons, organized by brands and flavors. More to come!!!
+Jump to [Releases](https://github.com/lunar1um/soggy-icons/releases) if you want to download them in a batch!
 
 ## License
 - Icon sources may belong to their respective owners.
