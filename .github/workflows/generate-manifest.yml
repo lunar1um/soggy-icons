@@ -7,6 +7,9 @@ on:
       - "generate_manifest.py"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
