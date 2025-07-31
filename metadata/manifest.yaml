@@ -32,6 +32,7 @@ google:
   - name: cloud
   - name: tag-manager
   - name: assistant
+  - name: files
   - name: dataproc
   - name: sheet
   - name: bigtable
@@ -51,6 +52,7 @@ google:
   - name: cloud-storage
   - name: tasks
   - name: cardboard
+  - name: gmail
   - name: tv
   - name: earth-engine
   - name: apps-script
@@ -91,6 +93,7 @@ google:
   - name: cloud
   - name: tag-manager
   - name: assistant
+  - name: files
   - name: dataproc
   - name: sheet
   - name: bigtable
@@ -110,6 +113,7 @@ google:
   - name: cloud-storage
   - name: tasks
   - name: cardboard
+  - name: gmail
   - name: tv
   - name: earth-engine
   - name: apps-script
@@ -141,6 +145,7 @@ google:
   - name: adsense
   - name: docs
   - name: gemini
+  - name: summer-of-code
   - name: chronicle
   - name: pay
   - name: dataflow
@@ -149,6 +154,7 @@ google:
   - name: cloud
   - name: tag-manager
   - name: assistant
+  - name: files
   - name: dataproc
   - name: sheet
   - name: bigtable
@@ -168,6 +174,7 @@ google:
   - name: cloud-storage
   - name: tasks
   - name: cardboard
+  - name: gmail
   - name: tv
   - name: earth-engine
   - name: apps-script
@@ -175,7 +182,6 @@ google:
   - name: earth
   - name: google
   - name: fit
-  - name: summer-of-code (wtf is this name)
   romantic:
   - name: search-console
   - name: container-optimized-os
@@ -209,6 +215,7 @@ google:
   - name: cloud
   - name: tag-manager
   - name: assistant
+  - name: files
   - name: dataproc
   - name: sheet
   - name: bigtable
@@ -228,6 +235,7 @@ google:
   - name: cloud-storage
   - name: tasks
   - name: cardboard
+  - name: gmail
   - name: tv
   - name: earth-engine
   - name: apps-script
