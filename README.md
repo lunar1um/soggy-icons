@@ -13,6 +13,11 @@ Or check the [Folders](https://github.com/lunar1um/soggy-icons/tree/main/icons/)
     <img src="https://github.com/lunar1um/soggy-icons/blob/main/previews/google.png?raw=true" alt="goog...le" width="90%" height="auto"> <br>
 </p>
 
+2. Soggy media (all kinds of social media and online platforms for media)
+<p align="center">
+    <img src="https://github.com/lunar1um/soggy-icons/blob/main/previews/soggy_media.png?raw=true" alt="soggy media" width="90%" height="auto"> <br>
+</p>
+
 ## License
 - Icon sources may belong to their respective owners.
 
