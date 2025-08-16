@@ -1,4 +1,34 @@
-social-media: {}
+social-media:
+  default:
+  - name: patreon
+  - name: spotify
+  - name: bluesky
+  - name: x
+  - name: youtube-music
+  - name: vk
+  - name: tiktok
+  - name: kik
+  - name: tumblr
+  - name: youtube
+  - name: deviantart
+  - name: messenger
+  - name: pinterest
+  - name: zalo
+  - name: whatsapp
+  - name: twitter
+  - name: instagram
+  - name: threads
+  - name: telegram
+  - name: discord
+  - name: snapchat
+  - name: wechat
+  - name: viber
+  - name: signal
+  - name: reddit
+  - name: mastodon
+  - name: line
+  - name: facebook
+  - name: twitch
 google:
   cold:
   - name: colab
